@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TurboImageProject</string>
+
+    <string name="hello_world"><b>Hell</b>o world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="draw">Draw</string>
+    <string name="remove">Remove</string>
+    <string name="text">Label</string>
+</resources>

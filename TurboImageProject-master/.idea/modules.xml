@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TurboImageProject-master.iml" filepath="$PROJECT_DIR$/TurboImageProject-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turboImageview/turboImageview.iml" filepath="$PROJECT_DIR$/turboImageview/turboImageview.iml" />
+    </modules>
+  </component>
+</project>
+
